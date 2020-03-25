@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_01springallconsumer/_01springallconsumer.iml" filepath="$PROJECT_DIR$/_01springallconsumer/_01springallconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01springallinferfaces/_01springallinferfaces.iml" filepath="$PROJECT_DIR$/_01springallinferfaces/_01springallinferfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01springallprovider/_01springallprovider.iml" filepath="$PROJECT_DIR$/_01springallprovider/_01springallprovider.iml" />
+    </modules>
+  </component>
+</project>
